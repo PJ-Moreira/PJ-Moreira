@@ -14,7 +14,5 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
   <a href="https://www.instagram.com/pedro_._moreira?igsh=MTI4ZmlsbzlhcHp2Zg%3D%3D&utm_source=qr " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
